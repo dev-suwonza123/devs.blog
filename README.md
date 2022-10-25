@@ -1,4 +1,4 @@
-## casual-markdown-blog
+## suwondev-markdown-blog
 
 Build blog site by markdown files and single [index.html](https://dev-suwonza123.github.io/devs.blog/source/index.html). 
 
@@ -102,4 +102,3 @@ home page in markdown syntax...
 
 * 2022/08/24: 0.60, first release
 * to-do, more themes
- 
